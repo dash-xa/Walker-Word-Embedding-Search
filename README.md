@@ -1,6 +1,6 @@
 # Walker: Word Embedding Search
 
-This project implements a word embedding game using `hnswlib` for nearest neighbor search. The game starts with a randomly selected start word and end word from a dictionary. The user navigates from the start word to the end word by selecting the nearest words in each turn.
+This project implements a word embedding game similar to [The Wikipedia Game](https://www.thewikipediagame.com/) (race from one page to another), except instead of Wikipedia you are traversing a word embeddings space. The game starts with a randomly selected start word and end word from a dictionary. The user navigates from the start word to the end word by selecting the nearest words in each turn.
 
 ![alt text](demo.gif)
 
