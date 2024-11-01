@@ -7,6 +7,8 @@ from tqdm import tqdm
 import os
 import pickle
 import argparse
+def hello_world():
+    print("Hello, World!")
 
 # Parse command line arguments
 parser = argparse.ArgumentParser(description="Embed words from a dictionary.")
