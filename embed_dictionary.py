@@ -136,3 +136,5 @@ while current_word != end_word:
     # Move to the next word
     current_word = next_word
 print(f"Congratulations! You reached the end word: {end_word}")
+def hello_world():
+    print("Hello, World!")
